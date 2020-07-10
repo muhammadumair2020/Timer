@@ -1,0 +1,50 @@
+body {
+
+
+background-color: darkslategrey;
+}
+
+
+.jumbotron {
+
+    text-align: center;
+    color: cornsilk;
+    border-radius: 30px;
+    border-color: tomato;
+    border: 2px solid;
+    margin-top: 10px;
+    border-color: violet;
+
+}
+
+h1 {
+
+
+    background-color: darkslateblue;
+    border: darkturquoise solid;
+    font-weight: 100px;
+    font-style: italic;
+    display: inline-block;
+    text-align: justify;
+    width: 200px;
+    text-align: center;
+   padding-top: 10px;
+   border-radius: 10px;
+   
+
+}
+
+
+.h11 {
+
+    margin-bottom: 35px;
+        
+
+}
+
+.btn {
+    margin: 3px;
+    width: 100px;
+
+
+}
